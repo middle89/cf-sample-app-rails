@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-rails
+- name: cf-lava-app-rails
   memory: 512M
   instances: 1
   random-route: true
